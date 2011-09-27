@@ -1,0 +1,79 @@
+body{
+    background: #000 !important;
+}
+
+#mainContainer{
+    background-image: none !important;
+}
+
+#playerBar{
+    background: none !important;
+}
+
+#mainContentContainer{
+    width: 100% !important;
+}
+
+#footer{
+    display: none !important;
+}
+
+#brandingBar{
+    background: #000 !important;
+}
+
+.contentnav{
+    background-color: black !important;
+    position: fixed !important;
+    top: 0px !important;
+    z-index: 5001 !important;
+    right: 225px !important;
+}
+
+.searchBox{
+    background-image: none !important;
+}
+
+.searchInput{
+position: fixed !important;
+top: 5px !important;
+width: 250px !important;
+height: 18px !important;
+border-radius: 20px !important;
+z-index: 5001 !important;
+left: 150px !important;
+background: #FFF !important;
+}
+
+
+#searchPopupNavPosition {
+position: fixed !important;
+top: 25px !important;
+left: 150px !important;
+width: 300px !important;
+z-index: 5001 !important;
+}
+
+#promobox{
+    display: none !important;
+}
+
+#stationSortDate{
+    border-bottom-left-radius: 5px !important;
+}
+
+.stationListHolder {
+    height: 700px !important;
+}
+
+.contentContainer .top{
+    display: none !important;
+}
+
+.stationContent{
+    border-radius: 5px !important;
+}
+
+.detail{
+background-color: transparent !important;
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Open Pandora's Box",
+    "version": "1.0",
+    "description": "Touchup to the new Pandora interface.",
+    "content_scripts": [{
+        "matches": ["http://www.pandora.com/*"],
+        "css": ["open_pandora.css"],
+        "js": ["open_pandora.js"]      
+    }],
+    "permissions": [
+        "tabs", "http://www.pandora.com/*"
+    ],  
+    "homepage_url": "http://www.filipmares.com"
+}
